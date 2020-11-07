@@ -1,3 +1,4 @@
+This projects sole purpose is to improve my js skill and checking out my api intigration learnings
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## before anything after you clone 
